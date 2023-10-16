@@ -10,6 +10,9 @@ h2{
 p{
     color: azure;
 }
+a{
+    color: rgb(232, 174, 255);
+}
 body{
     background-color: rgb(24, 16, 31);
 }
